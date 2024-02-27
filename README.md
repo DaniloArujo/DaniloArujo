@@ -9,7 +9,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- 💻 Linguagens: Python, JavaScript, C.
+- 💻 Linguagens:Java, Python, JavaScript, C.
 - 🌐 Web: HTML, CSS, Bootstrap, React.
 - 📊 Dados: Power BI, Jupyter, Selenium.
 - 🗄️ Bancos de Dados: MySQL, Postgres.
