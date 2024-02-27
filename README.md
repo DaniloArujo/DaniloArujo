@@ -17,7 +17,7 @@
 
 ## 📈 Estatísticas do GitHub
 
-[![DaniloArujo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/DaniloArujo/github-readme-stats)
+[![DaniloArujo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloArujo)](https://github.com/DaniloArujo/github-readme-stats)
 
 
 ## 📫 Como me Encontrar
