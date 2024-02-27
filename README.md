@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Studying Software Engineering at the Catholic University of Brasília.
-- 💼 Currently interning in IT at the Federal Council of Economics.
+- 💼 Currently interning in IT at the Conselho Federal de Economia.
 - 🌐 Skills in web development, automation, and quality management.
 - 🚀 Passionate about technology and always eager to learn.
 
