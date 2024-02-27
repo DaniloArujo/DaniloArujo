@@ -1,9 +1,9 @@
 ## Hello, World! 👋
 <div style="display: inline_block" align="center">
+   Danilo Araujo Mota - web development | embedded systems | automation 
   <br>
   <img width="400" src="https://media1.tenor.com/m/8wBCqZH60U8AAAAC/computer-cat.gif" />
   <br>
- web development | embedded systems | automation 
 </div>
 
 ## 👨‍💻 About Me
