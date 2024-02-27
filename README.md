@@ -17,7 +17,7 @@
 
 ## 🛠️ Technologies and Tools
 
-- 💻 Languages: Python, JavaScript, C.
+- 💻 Languages: Java, C, Python, JavaScript.
 - 🌐 Web: HTML, CSS, Bootstrap, React.
 - 📊 Data: Power BI, Jupyter, Selenium.
 - 🗄️ Databases: MySQL, Postgres.
