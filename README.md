@@ -1,21 +1,33 @@
-# Olá, mundo! 
+<div style="display: inline_block" align="center">
+  <img width="400" src="https://media1.tenor.com/m/8wBCqZH60U8AAAAC/computer-cat.gif" />
+</div>
 
-## 👨‍💻 Sobre Mim
+# Hello, World! 👋
 
-- 🎓 Estudante de Bacharelado em Engenharia de Software na Universidade Católica de Brasília.
-- 💼 Atualmente estagiando em TI no Conselho Federal de Economia.
-- 🌐 Conhecimentos em desenvolvimento web, sistemas embarcados, automação, e gestão de qualidade.
-- 🚀 Apaixonado por tecnologia e sempre em busca de aprendizado.
+## 👨‍💻 About Me
 
-## 🛠️ Tecnologias e Ferramentas
+- 🎓 Studying Software Engineering at the Catholic University of Brasília.
+- 💼 Currently interning in IT at the Federal Council of Economics.
+- 🌐 Skills in web development, automation, and quality management.
+- 🚀 Passionate about technology and always eager to learn.
 
-- 💻 Linguagens:Java, Python, JavaScript, C.
+## 🛠️ Technologies and Tools
+
+- 💻 Languages: Python, JavaScript, C.
 - 🌐 Web: HTML, CSS, Bootstrap, React.
-- 📊 Dados: Power BI, Jupyter, Selenium.
-- 🗄️ Bancos de Dados: MySQL, Postgres.
-- 🚀 Outras: Git, NodeJS, Express.
+- 📊 Data: Power BI, Jupyter, Selenium.
+- 🗄️ Databases: MySQL, Postgres.
+- 🚀 Others: Git, NodeJS, Express.
 
-## 📫 Como me Encontrar
+## 📈 GitHub Stats
 
-- LinkedIn: https://www.linkedin.com/in/danilo-araujo-mota-b1342b219/
-- E-mail: daniloaraujomota@gmail.com
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaniloArujo&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaniloArujo&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaniloArujo&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaniloArujo&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=DaniloArujo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+
+## 📫 How to Reach Me
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danilo_araujomta/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/danilo-araujo-mota-b1342b219/)](https://www.linkedin.com/in/danilo-araujo-mota-b1342b219/)
