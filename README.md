@@ -17,5 +17,5 @@
 
 ## 📫 Como me Encontrar
 
-- LinkedIn: [Seu Perfil no LinkedIn]([https://www.linkedin.com/in/seu-nome/](https://www.linkedin.com/in/danilo-araujo-mota-b1342b219/))
+- LinkedIn:[https://www.linkedin.com/in/seu-nome/](https://www.linkedin.com/in/danilo-araujo-mota-b1342b219/]
 - E-mail: [daniloaraujomota@gmail.com]
