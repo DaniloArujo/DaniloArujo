@@ -15,11 +15,6 @@
 - 🗄️ Bancos de Dados: MySQL, Postgres.
 - 🚀 Outras: Git, NodeJS, Express.
 
-## 📈 Estatísticas do GitHub
-
-[![DaniloArujo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloArujo)](https://github.com/DaniloArujo/github-readme-stats)
-
-
 ## 📫 Como me Encontrar
 
 - LinkedIn: [Seu Perfil no LinkedIn]([https://www.linkedin.com/in/seu-nome/](https://www.linkedin.com/in/danilo-araujo-mota-b1342b219/))
