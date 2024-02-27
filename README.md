@@ -4,7 +4,7 @@
 
 - 🎓 Estudante de Bacharelado em Engenharia de Software na Universidade Católica de Brasília.
 - 💼 Atualmente estagiando em TI no Conselho Federal de Economia.
-- 🌐 Conhecimentos em desenvolvimento web, automação, e gestão de qualidade.
+- 🌐 Conhecimentos em desenvolvimento web, sistemas embarcados, automação, e gestão de qualidade.
 - 🚀 Apaixonado por tecnologia e sempre em busca de aprendizado.
 
 ## 🛠️ Tecnologias e Ferramentas
