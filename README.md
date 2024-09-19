@@ -19,7 +19,6 @@
 
 - 💻 Languages: Java, C, Python, JavaScript.
 - 🌐 Web: HTML, CSS, Bootstrap, React.
-- 📊 Data: Power BI, Jupyter, Selenium.
 - 🗄️ Databases: MySQL, Postgres.
 - 🚀 Others: Git, NodeJS, Express.
 
