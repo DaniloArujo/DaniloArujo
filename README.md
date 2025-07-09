@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Studying Software Engineering at the Universidade Católica de Brasília.
-- 💼 Currently interning in IT at the Conselho Federal de Economia.
+- 💼 Currently interning in IT at Digital Tecnologia e Segurança.
 - 🌐 Skills in web development, automation, and quality management.
 - 🚀 Passionate about technology and always eager to learn.
 
